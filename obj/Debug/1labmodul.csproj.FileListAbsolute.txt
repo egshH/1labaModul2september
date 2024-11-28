@@ -1,0 +1,17 @@
+C:\Users\yegor\Desktop\Modul\1labmodul\bin\Debug\1labmodul.exe.config
+C:\Users\yegor\Desktop\Modul\1labmodul\bin\Debug\1labmodul.exe
+C:\Users\yegor\Desktop\Modul\1labmodul\bin\Debug\1labmodul.pdb
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\1labmodul.csproj.AssemblyReference.cache
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\MainWindow.g.cs
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\Window2.g.cs
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\App.g.cs
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\1labmodul_MarkupCompile.cache
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\1labmodul_MarkupCompile.lref
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\MainWindow.baml
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\Window2.baml
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\1labmodul.g.resources
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\_1labmodul.Properties.Resources.resources
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\1labmodul.csproj.GenerateResource.cache
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\1labmodul.csproj.CoreCompileInputs.cache
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\1labmodul.exe
+C:\Users\yegor\Desktop\Modul\1labmodul\obj\Debug\1labmodul.pdb
